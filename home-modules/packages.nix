@@ -66,7 +66,6 @@ in
       foot
       fuzzel
       matugen
-      mpv
       mpvpaper
       swappy
       wf-recorder
@@ -85,7 +84,6 @@ in
       translate-shell
       hyprpicker
       imagemagick
-      ffmpeg
       gnome-settings-daemon  # Provides gsettings
       libnotify  # Provides notify-send
       easyeffects
