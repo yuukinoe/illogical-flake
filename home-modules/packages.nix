@@ -86,7 +86,6 @@ in
       imagemagick
       gnome-settings-daemon  # Provides gsettings
       libnotify  # Provides notify-send
-      easyeffects
       grim
 
       # Wayland/Hyprland specific
